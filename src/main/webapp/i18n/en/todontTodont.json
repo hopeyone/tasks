@@ -1,0 +1,32 @@
+{
+  "tasksApp": {
+    "todontTodont": {
+      "home": {
+        "title": "Todonts",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Todont",
+        "createOrEditLabel": "Create or edit a Todont",
+        "search": "Search for Todont",
+        "notFound": "No Todonts found"
+      },
+      "delete": {
+        "question": "Are you sure you want to delete Todont {{ id }}?"
+      },
+      "detail": {
+        "title": "Todont"
+      },
+      "id": "ID",
+      "title": "Title",
+      "description": "Description",
+      "due": "Due",
+      "todontGroup": "Todont Group"
+    }
+  },
+  "todontApp": {
+    "todontTodont": {
+      "created": "A new Todont is created with identifier {{ param }}",
+      "updated": "A Todont is updated with identifier {{ param }}",
+      "deleted": "A Todont is deleted with identifier {{ param }}"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "tasksApp": {
+    "todontTodontGroup": {
+      "home": {
+        "title": "Todont Groups",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Todont Group",
+        "createOrEditLabel": "Create or edit a Todont Group",
+        "notFound": "No Todont Groups found"
+      },
+      "delete": {
+        "question": "Are you sure you want to delete Todont Group {{ id }}?"
+      },
+      "detail": {
+        "title": "Todont Group"
+      },
+      "id": "ID",
+      "name": "Name",
+      "todont": "Todont"
+    }
+  },
+  "todontApp": {
+    "todontTodontGroup": {
+      "created": "A new Todont Group is created with identifier {{ param }}",
+      "updated": "A Todont Group is updated with identifier {{ param }}",
+      "deleted": "A Todont Group is deleted with identifier {{ param }}"
+    }
+  }
+}

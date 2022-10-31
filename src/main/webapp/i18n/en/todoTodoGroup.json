@@ -1,0 +1,29 @@
+{
+  "tasksApp": {
+    "todoTodoGroup": {
+      "home": {
+        "title": "Todo Groups",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Todo Group",
+        "createOrEditLabel": "Create or edit a Todo Group",
+        "notFound": "No Todo Groups found"
+      },
+      "delete": {
+        "question": "Are you sure you want to delete Todo Group {{ id }}?"
+      },
+      "detail": {
+        "title": "Todo Group"
+      },
+      "id": "ID",
+      "name": "Name",
+      "todo": "Todo"
+    }
+  },
+  "todoApp": {
+    "todoTodoGroup": {
+      "created": "A new Todo Group is created with identifier {{ param }}",
+      "updated": "A Todo Group is updated with identifier {{ param }}",
+      "deleted": "A Todo Group is deleted with identifier {{ param }}"
+    }
+  }
+}
